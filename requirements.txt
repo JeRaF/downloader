@@ -2,7 +2,6 @@ beautifulsoup4==4.9.0
 chardet==3.0.4
 decorator==4.4.2
 pip==20.1
-pycparser==2.20
 python-telegram-bot==12.7
 requests==2.23.0
 six==1.14.0
