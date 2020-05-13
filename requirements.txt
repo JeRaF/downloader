@@ -4,7 +4,6 @@ decorator==4.4.2
 pip==20.1
 python-telegram-bot==12.7
 requests==2.23.0
-six==1.14.0
 soupsieve==2.0
 youtube-dl==2020.5.8
 appdirs==1.4.3
