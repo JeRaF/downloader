@@ -1,6 +1,5 @@
 beautifulsoup4==4.9.0
 chardet==3.0.4
-cryptography==2.9.2
 decorator==4.4.2
 pip==20.1
 pycparser==2.20
