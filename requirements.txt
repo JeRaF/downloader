@@ -26,6 +26,5 @@ PySocks==1.7.1
 python-magic==0.4.15
 six==1.12.0
 typing==3.7.4.1
-urlgrabber==3.10.1
 urllib3==1.25.6
 
