@@ -3,7 +3,6 @@ import os
 import re
 import logging
 from unicodedata import normalize
-import tiken
 
 import requests
 import youtube_dl
